@@ -48,12 +48,12 @@ document.getElementById("content").innerHTML=`
 <button onclick="hideAll()">إخفاء</button>
 <h2>📸 الأدلة</h2>
 
-<p>يمكنك تعديل الصور من الكود (استبدل الروابط بالصور التي تريدها)</p>
+
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Artificial_intelligence.jpg">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Flowchart.png">
 
-<p>الصورة الأولى تمثل الذكاء الاصطناعي، والثانية تمثل الأنظمة التقليدية.</p>
+
 `;
 }
 
